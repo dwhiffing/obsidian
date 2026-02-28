@@ -56,3 +56,13 @@
 - Uktarl: Velcome to Undermountain.  Ve'd be happy to offer you safe passage through this floor in exchange for an offering.  
 - Ve bid you Velcome to Undermountain, vonderers from beyond.  I am Uktarl.  Ve offer you a varning before you venture further.  There are many dangers lurking vithin these valls. For a small offering, ve vill give you our protection.
 - Ve accept gold....or blood.
+
+- party regroups at yp, meeting valaria, a sassy wizard and pyre, a frightened child, who has run from home after meeting a shadowy figure
+- Sammy has a new tattoo he's quite excited about 
+- after catching up, they descend into the yawning portal
+- briefly after their descent, they encounter some vampiric figures that offer them protection in exchange for a tribute, but after being exposed to a zone of truth, they retreat
+- finding some finger able holes along the chamber walls, they insert and find a hidden chamber emitting a foul odor. Within, they find a tunnel to a room filled with Stagnant water and a broke statue.  After pyre screws the head of the statue tightly, grey oozes emerge which the party swiftly dispatches with a fireball from valaria and some booming blows and dolorous bells.
+- they attempt and fail to repair the statue. But find within its hollow head, a magical nightcap which makes pyre look adorable.
+- they return to the main chamber and venture westward, encountering some retreating bugbears and a warning of certain death to the south. They choose to go south.
+- to the south, they find a long tunnel , and at the end, a dead goblin. Isidore speaks with the dead creature to learn that it was digging tunnels for a mad mage obsessed with making the dungeon bigger. 
+- heading further south they find a beheaded sculpture of a woman with a snakes head.  Knocking on both doors in this new chamber, they decide to go east, where they encounter a gelatinous cube
