@@ -6,7 +6,7 @@
 - **Durn Zuggzutt** owns the YP, having bought it from Durnan a few years ago
 - **Suvik** is the bartender at the YP
 	- quotes
-		- y'alright? Name's suvik, I tend the bar ere at the ol yawner. Ya lookin fer a drink? Or are ya headin straight for the well?
+		- y'alright? Name's suvik, I tend the bar ere at the portal. Ya lookin fer a drink? Or are ya headin straight for the well?
 		- Secomber? Yeah, I used to live there about a year ago.  To be honest with you, place was too boring.  Nothing excitin ever happens there.  Heard about the yawning portal and it seemed the ticket.  Brought my son Bruno here with me, haven't missed it.  All kinds of excitement round here.
 		- owner is a kobold named Durn.  Surly fella, but he gave me a job with no references, so he's alright in my books
 		- even let's me run a side hustle.  If ya find anything magic down there ya don't mind partin with, I'll give ya a great price, if ya can get back here with it.  And I've usually got an extra trinket or two hangin around if ya got too much gold weighin ya down.  Cleaned out at the moment I'm afraid.
@@ -57,9 +57,10 @@
 - Ve bid you Velcome to Undermountain, vonderers from beyond.  I am Uktarl.  Ve offer you a varning before you venture further.  There are many dangers lurking vithin these valls. For a small offering, ve vill give you our protection.
 - Ve accept gold....or blood.
 
-- party regroups at the Yawning Portal, thirsty for adventure. There, they meet valaria, a sassy, fun loving wizard, thirsty for adventure; and pyre, a frightened and bullied child who has run from home after meeting a shadowy figure
-- Sammy has a new tramp stamp he's quite excited to tell everyone about, especially isidore
-- after catching up, and deciding to bring pyre with them, they descend into the yawning portal.  Right before, a bar patron named Estelle asks pyre to keep an eye out for someone wearing her family ring.
+## Session 1 Notes
+- party regroups at yp, meeting valaria, a sassy wizard and pyre, a frightened child, who has run from home after meeting a shadowy figure
+- Sammy has a new tattoo he's quite excited about 
+- after catching up, they descend into the yawning portal
 - briefly after their descent, they encounter some vampiric figures that offer them protection in exchange for a tribute, but after being exposed to a zone of truth, they retreat
 - finding some fingerable holes along the chamber walls, they insert and find a hidden chamber emitting a foul odor. Within, they find a tunnel to a room filled with Stagnant water and a broke statue.  After pyre screws the head of the statue tightly, grey oozes emerge which the party swiftly dispatches with a fireball, some booming blows and dolorous bells.
 - they attempt and fail to repair the statue. But find within its hollow head a magical nightcap which makes pyre look adorable.
